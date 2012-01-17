@@ -27,7 +27,7 @@
 ἀπόστολος	apostle,envoy,messenger	beginner,word,common,greek to english
 Γαλιλαία	Galilee	beginner,word,common,greek to english
 γραφή	writing,scripture	beginner,word,common,greek to english
-δὀξα		glory,majesty,fame	beginner,word,common,greek to english
+δὀξα	glory,majesty,fame	beginner,word,common,greek to english
 ἐγώ	I	beginner,word,common,greek to english
 ἔσχατος	last	beginner,word,common,greek to english
 ζωἠ	life	beginner,word,common,greek to english
@@ -46,3 +46,33 @@
 Πἐτρος	Peter	beginner,word,common,name,greek to english
 Πιλᾶτος	Pilate	beginner,word,common,name,greek to english
 Σἰμων	Simon	beginner,word,common,name,greek to english
+nominative singular masculine	ς,ος	beginner,ending
+nominative singular feminine	-,η,α	beginner,ending
+nominative singular neuter	ν,ον	beginner,ending
+accusative singular masculine	ν,ον	beginner,ending
+accusative singular feminine	ν,εν,αν	beginner,ending
+accusative singular neuter	ν,ον	beginner,ending
+nominative plural masculine	ι,οι	beginner,ending
+nominative plural feminine	ι,αι	beginner,ending
+nominative plural neuter	α	beginner,ending
+accusative plural masculine	ους	beginner,ending
+accusative plural feminine	ς,ας	beginner,ending
+accusative plural neuter	α	beginner,ending
+stems ending in α or η are in the ? declension	first	beginner,declension
+stems ending in ο are in the ? declension	second	beginner,declension
+consonental stems are in the ? declension	third	beginner,declension
+True or False: Every neuter word has the same form in the nominative and accusative	True	beginner
+almost all neuter words end in ? in the nominative and accusative plural	α	beginner
+The article (always/never)? agrees with the noun that it modifies in case, number, and gender	always	beginner
+article nominative singular masculine	ὁ	beginner,ending
+article nominative singular feminine	ἡ	beginner,ending
+article nominative singular neuter	τὀ	beginner,ending
+article accusative singular masculine	τὀν	beginner,ending
+article accusative singular feminine	τἠν	beginner,ending
+article accusative singular neuter	τὀ	beginner,ending
+article nominative plural masculine	οἱ	beginner,ending
+article nominative plural feminine	αἱ	beginner,ending
+article nominative plural neuter	τἀ	beginner,ending
+article accusative plural masculine	τοὐς	beginner,ending
+article accusative plural feminine	τἀς	beginner,ending
+article accusative plural neuter	τἀ	beginner,ending

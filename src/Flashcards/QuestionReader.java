@@ -6,7 +6,7 @@ public class QuestionReader {
 	private BufferedReader reader;
 	public QuestionReader(String filename) throws IOException
 	{
-		this(new FileReader(filename));
+		this(new InputStreamReader(new FileInputStream(filename), "UTF-8"));
 	}
 	public QuestionReader(Reader r) throws IOException
 	{
