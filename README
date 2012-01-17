@@ -1,0 +1,6 @@
+Flashcard program to help me learn Greek.
+
+Currently reads in a flat file of questions, answers, and tags.  Randomizes questions and asks them all to me.
+
+Future enhancememnts
+	Change question format to be XML or JSON.  Add different categories of questions.  Start tracking which questions I miss.  Ask those again and again.  Automatically create multiple choice questions.
