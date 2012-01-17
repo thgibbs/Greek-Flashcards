@@ -1,0 +1,48 @@
+α	alpha	beginner,letter
+β	beta	beginner,letter
+γ	gamma	beginner,letter
+δ	delta	beginner,letter
+ε	epsilon	beginner,letter
+ζ	zeta	beginner,letter
+η	eta	beginner,letter
+θ	theta	beginner,letter
+ι	iota	beginner,letter
+κ	kappa	beginner,letter
+λ	lambda	beginner,letter
+μ	mu	beginner,letter
+ν	nu	beginner,letter
+ξ	xi	beginner,letter
+ο	omicron	beginner,letter
+π	pi	beginner,letter
+ρ	rho	beginner,letter
+σ	sigma	beginner,letter
+τ	tau	beginner,letter
+φ	phi	beginner,letter
+χ	chi	beginner,letter
+ψ	psi	beginner,letter
+ω	omega	beginner,letter
+ἄγγελος	angel,messenger	beginner,word,common,greek to english
+ἀμεν	verily,truly,amen,so let it be	beginner,word,common,greek to english
+ἄνθρωπος	man,mankind,person,people,humankind,human being	beginner,word,common,greek to english
+ἀπόστολος	apostle,envoy,messenger	beginner,word,common,greek to english
+Γαλιλαία	Galilee	beginner,word,common,greek to english
+γραφή	writing,scripture	beginner,word,common,greek to english
+δὀξα		glory,majesty,fame	beginner,word,common,greek to english
+ἐγώ	I	beginner,word,common,greek to english
+ἔσχατος	last	beginner,word,common,greek to english
+ζωἠ	life	beginner,word,common,greek to english
+θεὀς	God,god	beginner,word,common,greek to english
+καἰ	and,even,also,namely	beginner,word,common,greek to english
+καρδἰα	heart,inner self	beginner,word,common,greek to english
+κὀσμος	world,universe,humankind	beginner,word,common,greek to english
+λὀγος	word,Word,statement,message	beginner,word,common,greek to english
+πνεῦμα	spirit,Spirit,wind,breath,inner life	beginner,word,common,greek to english
+προφἠτης	prophet	beginner,word,common,greek to english
+σἀββατον	Sabbath,week	beginner,word,common,greek to english
+φωνἠ	sound,noise,voice	beginner,word,common,greek to english
+Ἀβραἀμ	Abraham	beginner,word,common,name,greek to english
+Δαυἰδ	David	beginner,word,common,name,greek to english
+Παῦλος	Paul	beginner,word,common,name,greek to english
+Πἐτρος	Peter	beginner,word,common,name,greek to english
+Πιλᾶτος	Pilate	beginner,word,common,name,greek to english
+Σἰμων	Simon	beginner,word,common,name,greek to english
