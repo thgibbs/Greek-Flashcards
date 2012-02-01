@@ -61,7 +61,7 @@ public class Main {
 		out.write("You answered " + answerStats.GetCorrectAnswers() + " / " + answerStats.GetTotalQuestions() + " correctly.\n");
 		for (Map.Entry<String, Stats.Pair> entry : answerStats.GetTagInfo().entrySet())
 		{
-			out.write("For tag [" + entry.getKey() + "] you answered " + entry.getValue().second + " / " + entry.getValue().second + " correctly\n");
+			out.write("For tag [" + entry.getKey() + "] you answered " + entry.getValue().second + " / " + entry.getValue().first + " correctly\n");
 		}
 		out.flush();
 	}
